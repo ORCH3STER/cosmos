@@ -1,4 +1,4 @@
-# Cosmos
+# Cosmos ~ God's notebook for competitive programming :) 
  
 > The universe of algorithm and data structures
 
